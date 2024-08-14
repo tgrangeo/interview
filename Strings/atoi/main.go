@@ -46,19 +46,19 @@ func Atoi(str string) (int, error) {
 
 func main() {
 	if result, err := Atoi("12"); err != nil {
-		fmt.Println("Error:", err)
+		fmt.Println(err)
 	} else {
 		fmt.Println(result)
 	}
 
 	if result, err := Atoi("-122"); err != nil {
-		fmt.Println("Error:", err)
+		fmt.Println(err)
 	} else {
 		fmt.Println(result)
 	}
 
 	if result, err := Atoi("12a3"); err != nil {
-		fmt.Println("Error:", err)
+		fmt.Println(err)
 	} else {
 		fmt.Println(result)
 	}
