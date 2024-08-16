@@ -1,8 +1,8 @@
 ### Array
-- [ ] Remove Duplicates from Sorted Array
+- [x] Remove Duplicates from Sorted Array
 - [ ] Best Time to Buy and Sell Stock II
 - [ ] Rotate Array
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [ ] Single Number
 - [ ] Intersection of Two Arrays II
 - [ ] Plus One
@@ -17,9 +17,9 @@
 - [x] First Unique Character in a String
 - [x] Valid Anagram
 - [x] Valid Palindrome
-- [ ] String to Integer (atoi)
-- [ ] Implement strStr()
-- [ ] Longest Common Prefix
+- [x] String to Integer (atoi)
+- [x] Implement strStr()
+- [x] Longest Common Prefix
 
 ### Linked List
 - [ ] Delete Node in a Linked List
