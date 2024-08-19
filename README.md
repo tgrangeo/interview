@@ -8,7 +8,7 @@
 - [x] Plus One
 - [x] Move Zeroes
 - [x] Two Sum
-- [ ] Valid Sudoku
+- [x] Valid Sudoku
 - [ ] Rotate Image
 
 ### Strings
