@@ -4,8 +4,8 @@
 - [x] Rotate Array
 - [x] Contains Duplicate
 - [x] Single Number
-- [ ] Intersection of Two Arrays II
-- [ ] Plus One
+- [x] Intersection of Two Arrays II
+- [x] Plus One
 - [ ] Move Zeroes
 - [ ] Two Sum
 - [ ] Valid Sudoku
